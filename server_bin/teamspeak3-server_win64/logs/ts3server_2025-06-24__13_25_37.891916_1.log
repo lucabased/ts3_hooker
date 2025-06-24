@@ -1,0 +1,7 @@
+2025-06-24 13:25:38.547222|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-06-24 13:25:38.547763|WARNING |VirtualServer |1  |--------------------------------------------------------
+2025-06-24 13:25:38.547763|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2025-06-24 13:25:38.547763|WARNING |VirtualServer |1  |token=PWaFzPZ3Pkd0TP+IbAVRtLEPyosVKUWcQ6ZdDnpj
+2025-06-24 13:25:38.547763|WARNING |VirtualServer |1  |--------------------------------------------------------
+2025-06-24 13:26:10.101056|INFO    |VirtualServer |1  |client 'Yop'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2025-06-24 13:26:10.101056|INFO    |VirtualServer |1  |client 'Yop'(id:3) used privilege key 'PWaFzPZ3Pkd0TP+IbAVRtLEPyosVKUWcQ6ZdDnpj' and was added to servergroup 'Server Admin'(id:6)

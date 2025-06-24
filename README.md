@@ -1,0 +1,4 @@
+
+Prerequisities:
+ - Npcap 
+ - Cargo
