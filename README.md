@@ -1,7 +1,12 @@
 
-## Prerequisities:
- - Npcap 
- - Cargo
+## Summary
+This implant clings to the UDP traffic of the TeamSpeak3-Server process running on the **same host**.
+The traffic is then internally parsed and processed. 
+--- 
+
+## Setup:
+ - All NPCap libs are are already inside the project. You must only compile with running "Cargo build" to get the binary.
+ - You must set the variables for the TeamSpeak3-ServerQuery within config.rs inside the hooker folder.
 
 
 ---
