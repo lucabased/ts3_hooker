@@ -20,3 +20,24 @@
 2025-06-24 13:29:04.283621|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
 2025-06-24 13:29:04.283621|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
 2025-06-24 13:29:04.491716|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2025-06-24 17:00:34.490460|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:35.575985|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:36.661761|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:37.747117|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:38.836582|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:39.917419|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:40.997544|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:42.076467|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:43.165680|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:44.244540|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:45.326447|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:46.406795|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:47.489299|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:48.565014|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:49.641222|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:50.723905|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:51.806608|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:00:52.892691|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied
+2025-06-24 17:04:05.670353|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2025-06-24 17:04:05.670353|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2025-06-24 17:52:13.828263|WARNING |UDPServers    |   |UDP packet send returned error : An invalid argument was supplied

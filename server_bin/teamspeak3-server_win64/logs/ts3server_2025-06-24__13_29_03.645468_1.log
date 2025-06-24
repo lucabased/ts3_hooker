@@ -1,1 +1,2 @@
 2025-06-24 13:29:04.282575|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-06-24 18:05:52.247582|INFO    |VirtualServer |1  |client 'Test'(id:4) was added to servergroup 'Server Admin'(id:6) by client 'fgsddgfdfg'(id:3)
